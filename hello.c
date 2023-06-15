@@ -4,6 +4,4 @@
 //added commenc
 //3rd commit
 
-int main(){
-printf("hello World");
-
+print(new);
